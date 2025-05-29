@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "json_to_vtt.js",
   "scripts": {
+    "dev": "nodemon json_to_vtt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

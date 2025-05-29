@@ -1,5 +1,5 @@
-Collecting workspace information```markdown
-# lixos
+```markdown
+# Video Transcriber Vtt
 
 Este projeto automatiza a transcrição de vídeos em formato `.mp4` usando a API Deepgram e converte as transcrições em arquivos de legenda no formato `.vtt`.
 
